@@ -1,0 +1,8 @@
+13:55:32.192 [main] INFO  base.BaseClass - Username entered.
+13:55:32.324 [main] INFO  base.BaseClass - Password entered.
+13:55:33.499 [main] INFO  base.BaseClass - Login button clicked.
+13:55:38.738 [main] INFO  base.BaseClass - Login is successfull
+13:55:38.739 [main] INFO  base.BaseClass - Login is unsuccessfull
+13:55:42.870 [main] INFO  base.BaseClass - Started Logintest using Orange HRM Login(Positive and Negative)
+13:55:42.985 [main] INFO  base.BaseClass - Username entered.
+13:55:43.092 [main] INFO  base.BaseClass - Password entered.

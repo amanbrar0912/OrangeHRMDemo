@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="16278" started-at="2021-02-19T17:10:25 EST" finished-at="2021-02-19T17:10:41 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="16278" started-at="2021-02-19T17:10:25 EST" finished-at="2021-02-19T17:10:41 EST">
+      <class name="testCases.TC_OWA_001">
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:testCases.TC_OWA_001@239a307b]" name="intializeDriver" is-config="true" duration-ms="6568" started-at="2021-02-19T17:10:27 EST" finished-at="2021-02-19T17:10:33 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_OWA_001@239a307b]" name="TestLogin" duration-ms="1951" started-at="2021-02-19T17:10:33 EST" data-provider="TC_OWA_001_TestData" finished-at="2021-02-19T17:10:35 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Admin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC_OWA_001@239a307b]" name="tearDown" is-config="true" duration-ms="714" started-at="2021-02-19T17:10:35 EST" finished-at="2021-02-19T17:10:36 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="intializeDriver()[pri:0, instance:testCases.TC_OWA_001@239a307b]" name="intializeDriver" is-config="true" duration-ms="3875" started-at="2021-02-19T17:10:36 EST" finished-at="2021-02-19T17:10:40 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intializeDriver -->
+        <test-method status="PASS" signature="TestLogin(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testCases.TC_OWA_001@239a307b]" name="TestLogin" duration-ms="827" started-at="2021-02-19T17:10:40 EST" data-provider="TC_OWA_001_TestData" finished-at="2021-02-19T17:10:41 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NewAdmin]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[admin123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.TC_OWA_001@239a307b]" name="tearDown" is-config="true" duration-ms="815" started-at="2021-02-19T17:10:41 EST" finished-at="2021-02-19T17:10:41 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC_OWA_001 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
